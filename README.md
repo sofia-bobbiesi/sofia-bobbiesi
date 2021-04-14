@@ -1,4 +1,4 @@
-<h1 align="center">Hellow World 👋, I'm Sofia</h1>
+<h1 align="center">Hello World 👋, I'm Sofia</h1>
 <h3 align="center">A CS-Student at FAMAF</h3>
 
 - 🌱 I’m currently learning: C/C++, Python, SQL, Arduino and Java.
