@@ -1,17 +1,17 @@
 <h1 align="center">Hello World 👋, I'm Sofia</h1>
 <h3 align="center">A CS-Student at FAMAF</h3>
 
-- 🌱 I’m currently learning: C/C++, Python, SQL, Arduino and Java.
+- 🌱 I’m currently learning: **C/C++, Python, SQL, Arduino and Java.**
 
-- 📫 How to reach me: sofiabobbiesi@gmail.com
+- 📫 How to reach me: **sofiabobbiesi@gmail.com**
 
-- ⚡ More about me: I like competitive programming
+- ⚡ More about me: **I like competitive programming**
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofia-bobbiesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sofia-bobbiesi" height="30" width="40" /></a>
 <a href="https://instagram.com/sofiabobbiesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sofiabobbiesi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sofiabobbiesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sofiabobbiesi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sofiabobbiesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sofiabobbiesi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofia-bobbiesi&show_icons=true&locale=en" alt="sofia-bobbiesi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofia-bobbiesi&" alt="sofia-bobbiesi" /></p>
+
+
